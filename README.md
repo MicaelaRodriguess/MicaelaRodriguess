@@ -6,7 +6,7 @@
 
 
 
-Picrewの「AmphyPop Doll Maker」でつくったよ！ https://picrew.me/share?cd=I9UhFSkKja #Picrew #AmphyPop_Doll_Maker
+ https://picrew.me/share?cd=I9UhFSkKja
 
 <!---
 MicaelaRodriguess/MicaelaRodriguess is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
