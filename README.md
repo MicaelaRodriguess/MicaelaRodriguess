@@ -1,12 +1,10 @@
   👋 Olá, sou a Micaela Rodrigues
 - 👀 Entrando no mundo da programação
-- 🌱 Bacharel Tecnologia da Infoemação
+- 🌱 Bacharel Tecnologia da Informação 
 - 💞️ TI ...
 - 📫 
 
 
-
- https://picrew.me/share?cd=I9UhFSkKja
 
 <!---
 MicaelaRodriguess/MicaelaRodriguess is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
