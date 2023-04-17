@@ -16,9 +16,7 @@ You can click the Preview link to take a look at your changes.
 </div>
 
   
-  
-  
-    <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://picrew.me/share?cd=qkk1lVs98U">
+ 
   
  ![Snake animation](https://github.com/MicaelaRodriguess/MicaelaRodriguess/blob/output/github-contribution-grid-snake.svg)
   
