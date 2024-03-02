@@ -20,3 +20,9 @@ You can click the Preview link to take a look at your changes.
   
  ![Snake animation](https://github.com/MicaelaRodriguess/MicaelaRodriguess/blob/output/github-contribution-grid-snake.svg)
   
+![Snake animation]
+(https://github.com/MicaelaRodriguess/MicaelaRodriguess/blob/output/github-contribution-grid-snake.svg)
+
+
+
+[![readme](https://github-readme-stats.vercel.app/api/pin/?username=MicaelaRodriguess&repo=MicaelaRodriguess&theme=react).](https://github.com/MicaelaRodriguess/MicaelaRodriguess)
